@@ -11,7 +11,7 @@ https://docs.google.com/document/d/1jxdcqWCkz782NgOn9mQRJyXKcJJsEqjfVW9eAcHrzko/
 # ゼミ論発表
 
 ## [本文](https://docs.google.com/document/d/1jxdcqWCkz782NgOn9mQRJyXKcJJsEqjfVW9eAcHrzko/edit?usp=sharing)
-## [プレゼン用資料]()
+## [プレゼン用資料](https://docs.google.com/presentation/d/1VI7G4TM5aVJ23tR64CUCTH5Ngh5wBKw_jAgP5B4m8Ao/edit?usp=sharing)
 
 
 ### [進捗管理用プロジェクト](https://github.com/furuhashilab/2021gsc_RanMatsuyama)
