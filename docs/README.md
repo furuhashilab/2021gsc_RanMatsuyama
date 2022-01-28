@@ -4,4 +4,4 @@
 * [国土地理院住居表示住所デジタルデータ公開進捗率 2021年度調査](https://furuhashilab.github.io/2021gsc_RanMatsuyama/tabularmaps_test.html#v=1&title=%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB&value=100.00%25,100.00%25,100.00%25,100.00%25,85.71%25,100.00%25,100.00%25,93.33%25,100.00%25,100.00%25,95.74%25,100.00%25,97.30%25,97.73%25,100.00%25,100.00%25,100.00%25,100.00%25,100.00%25,100.00%25,83.33%25,100.00%25,95.24%25,100.00%25,100.00%25,100.00%25,97.01%25,100.00%25,100.00%25,100.00%25,100.00%25,100.00%25,100.00%25,100.00%25,100.00%25,100.00%25,100.00%25,100.00%25,100.00%25,97.37%25,100.00%25,100.00%25,100.00%25,100.00%25,100.00%25,88.89%25,100.00%25)
 
 # 住居表示実施状況
-[google spread sheet](https://docs.google.com/spreadsheets/d/1t2DIo8riQHOSiGGklDaHX93shxUmfu34zvhfmIcYZc0/edit?usp=sharing)
+*[google spread sheet](https://docs.google.com/spreadsheets/d/1t2DIo8riQHOSiGGklDaHX93shxUmfu34zvhfmIcYZc0/edit?usp=sharing)
